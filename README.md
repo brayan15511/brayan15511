@@ -1,10 +1,3 @@
-### Hi there 👋
-
-- ⚙ Atualmente eu trabalho como tecnico em hardwere
-- 🌱 Estou aprendendo programação web
-- 💬 Tenho o sonho de trabalhar com programação e vou fazer acontecer
-- ⚡ Sou programador junior em linguagem c
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -14,7 +7,7 @@
     <script>
       $(document).ready(function(){
         // Informações do perfil
-        $.getJSON("https://api.github.com/users/brayan15511", function(data){
+        $.getJSON("https://api.github.com/users/SEU_USERNAME", function(data){
           $("#nome-usuario").html(data.name);
           $("#avatar-usuario").attr("src", data.avatar_url);
           $("#bio-usuario").html(data.bio);
@@ -49,3 +42,4 @@
     <ul id="repositorios-lista"></ul>
   </body>
 </html>
+
