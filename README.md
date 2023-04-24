@@ -19,8 +19,15 @@
   <img align="center" alt="Brayan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Brayan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Brayan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Brayan-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/CGIHMXu6m_4AAAAM/funny.gif">
+  
+  <video "align="right" alt="Brayan-pic" height="150" style="border-radius:50px;"  controls controlsList="nodownload">
+
+     <source src="https://media.tenor.com/CGIHMXu6m_4AAAAM/funny.gif""> 
+
+    </video>
+  
 </div>
+  
   
   ##
  
