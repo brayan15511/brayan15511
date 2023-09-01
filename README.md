@@ -1,7 +1,7 @@
 - ⚙ Atualmente eu trabalho como tecnico em hardwere
-- 🌱 Estou aprendendo programação web
+- 🌱 Estou estudando java, era dificil mas agora e divertido
 - 💬 Tenho o sonho de trabalhar com programação e vou fazer acontecer
-- ⚡ Sou programador junior em linguagem c
+- ⚡ Sou programador junior em linguagem Java 😎
 
 ## Olá, sou Brayan, tecnico em hardware, estudante de programação e tecnologia!
 
